@@ -1,0 +1,895 @@
+/*UNIVERSAL STYLES*/
+p {
+  font-family: 'Oswald', sans-serif;
+}
+
+.container-wrap {
+  width: 100%;
+  max-width: 2000px;
+  margin: 0 auto;
+}
+
+.dkblue-background {
+  background-color: rgb(71, 77, 90);
+}
+
+.parallax-window {
+    margin-top: 0px;
+    min-height: 100vh;
+    background: transparent;
+}
+
+.sub-head {
+  margin-top: 70px;
+  letter-spacing: 1px;
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+}
+
+.sub-head-w {
+  margin-top: 70px;
+  letter-spacing: 1px;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+}
+
+/* Navigation Style */
+.nav-head {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  height: 70px;
+  background-color: rgb(81, 87, 113);
+  opacity: .5;
+  position: fixed;
+  margin: 0 auto;
+  width: 100%;
+  z-index: 5;
+  justify-content: space-between;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
+nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  padding: 0 20px;
+
+}
+
+nav a {
+  display: block;
+  text-decoration: none;
+  margin: 0 auto;
+  color: rgb(255, 255, 255);
+  opacity: 0.7;
+}
+
+nav a:hover {
+  color: rgb(252, 111, 92);
+  opacity: 1.0;
+}
+
+nav a.active {
+  color: #fff;
+  cursor: default;
+}
+
+.logo {
+  font-size: 26px;
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb(255, 255, 255);
+  padding: 4px;
+  margin-left: 20px;
+  opacity: 0.7;
+}
+
+.logo a {
+  text-decoration: none;
+  color:inherit;
+}
+
+.logo:hover {
+  color: rgb(252, 111, 92);
+  border: 2px solid rgb(252, 111, 92);
+}
+
+/*FEATURE SYTLES*/
+#feature {
+  position: relative;
+}
+
+.header {
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+  border: solid 1px rgb(255, 255, 255);
+  padding: 8px 16px;
+  margin: -10px;
+}
+
+.sub-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+}
+
+.container-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.arrow {
+  width: 50px;
+  height: auto;
+  align-self: center;
+  animation-name: bouncy;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+/*HEADLINE STYLES*/
+.headline {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+/*PROCESS STYLE*/
+.section-container {
+  margin: 0 auto;
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.accordion {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    padding: 0px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+}
+
+.panel {
+  display: none;
+}
+
+.process-content {
+  display: flex;
+  text-align: justify;
+  margin: 0 auto;
+  justify-content: center;
+  max-width: 90%;
+  font-size: 15px;
+  padding-bottom: 20px;
+}
+
+.step-call {
+  font-size: 10px;
+  padding: 10px 15px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(71, 77, 93);
+}
+
+.step-call-hide {
+  font-size: 10px;
+  padding: 10px 16px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(71, 77, 93);
+  display: none;
+}
+
+.step-name {
+  width: 175px;
+  font-size: 10px;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(204, 204, 204);
+}
+
+.step-name:hover {
+  background-color: rgb(252, 111, 92);
+}
+
+.step-img {
+  width: 100%;
+  height: 100%;
+}
+
+/*PORTFOLIO STYLE*/
+
+.img-grid {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-width: 675px;
+  justify-content: space-around;
+}
+
+.port-img {
+  width: 275px;
+  height: 175px;
+  background: grey;
+  margin: 1em;
+  align-self: center;
+}
+
+.img-responsive {
+  width: 100%;
+}
+
+/*IMAGE HOVER EFFECT FOR PORTFOLIO*/
+
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+
+.hovereffect .overlay {
+  position: absolute;
+  overflow: hidden;
+  width: 80%;
+  height: 80%;
+  left: 10%;
+  top: 10%;
+  border-bottom: 1px solid #FFF;
+  border-top: 1px solid #FFF;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: scale(0,1);
+  -ms-transform: scale(0,1);
+  transform: scale(0,1);
+}
+
+.hovereffect:hover .overlay {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.hovereffect:hover img {
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="linear" slope="0.6" /><feFuncG type="linear" slope="0.6" /><feFuncB type="linear" slope="0.6" /></feComponentTransfer></filter></svg>#filter');
+  filter: brightness(0.2);
+  -webkit-filter: brightness(0.2);
+}
+
+.hovereffect h2 {
+  text-transform: uppercase;
+  text-align: center;
+  position: relative;
+  font-size: 17px;
+  background-color: transparent;
+  color: #FFF;
+  padding: 1em 0;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(0,-100%,0);
+  transform: translate3d(0,-100%,0);
+}
+
+.hovereffect a, .hovereffect p {
+  color: #FFF;
+  padding: 1em 0;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(0,100%,0);
+  transform: translate3d(0,100%,0);
+}
+
+.hovereffect:hover a, .hovereffect:hover p, .hovereffect:hover h2 {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -webkit-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+}
+
+/*RESUME STYLE*/
+
+#resume-section {
+  background-color: rgb(204, 204, 204);
+}
+
+.topic-grid {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.standalone {
+  flex-grow: 2;
+}
+
+.doc-row {
+  display: flex;
+  justify-content: space-around;
+  flex-grow: 1;
+  max-width: 400px;
+  align-self: center;
+}
+
+.statement {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  margin: 0 auto;
+}
+
+.task-statement {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.resume-topic {
+  text-align: center;
+  width: 50%;
+  padding: 2px;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(0, 0, 0);
+  margin-bottom: 10px;
+}
+
+.resume-option {
+  text-align: center;
+  padding: 2px;
+  font-size: 24px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 20px;
+}
+
+/*Button Styles FOR RESUME*/
+
+.button-container {
+  margin: 20px auto;
+  position: relative;
+  height: 275px;
+  width: 275px;
+}
+
+.resume-img {
+  display: flex;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.topic-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.topic-hover {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+}
+
+.button-container:hover .topic-hover {
+  opacity: 1;
+}
+
+.normal-text {
+  color: rgb(255, 255, 255);
+  font-weight: 300;
+  font-size: 16px;
+  align-self: flex-start;
+  margin: 5px 0px 20px;
+}
+
+.job-name {
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+  font-size: 16px;
+  align-self: flex-start;
+  margin: 0px;
+}
+
+/*Graph Bars*/
+.skill-contain {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+
+.bar {
+  width: 100%;
+}
+
+.bar2 {
+	height:30px;
+	background:rgb(255, 255, 255);
+	color:#f4f4f4;
+	text-align:center;
+	width:100%;
+  margin: auto;
+}
+
+.level {
+	height:30px;
+	background: rgb(137, 139, 150);
+  width: inherit;
+}
+
+.task {
+  margin: 20px 0px;
+}
+
+/*CONTACT STYLES*/
+
+#contact-container {
+  background-color: rgb(137,139,150);
+  padding-bottom: 50px;
+}
+
+.contact-subshell {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact-batch {
+  display: flex;
+  justify-content: center;
+  display: column;
+  flex-grow: 1;
+  width: 80%;
+  margin-bottom: 30px;
+  align-items: center;
+}
+
+.illinois-img {
+  width: 65%;
+  height: 65%;
+  max-width: 325px;
+  display: none;
+}
+
+.icon-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+}
+
+.h-dkblue-box {
+  padding: 5px 8px;
+  letter-spacing: 1px;
+  font-size: 22px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(71, 77, 93);
+  border-radius: 5px;
+}
+
+.button-container-soc {
+  margin: 3px;
+  position: relative;
+  height: 110px;
+  width: 110px;
+}
+
+.button-container-soc:hover .topic-hover {
+  opacity: 1;
+}
+
+.soc-icon {
+  width: 100%;
+}
+
+
+/*ANIMATIONS*/
+
+/*HEADER ARROW*/
+@keyframes bouncy  {
+    from{ transform: translateY(0)}
+    to{ transform: translateY(20px)}
+}
+
+/* Bar Animations */
+.seventyfive.start {
+	width: 0px;
+	background: rgb(137, 139, 150);
+	-webkit-animation: seventyfive 2s ease-out forwards;
+	   -moz-animation: seventyfive 2s ease-out forwards;
+	    -ms-animation: seventyfive 2s ease-out forwards;
+	     -o-animation: seventyfive 2s ease-out forwards;
+	        animation: seventyfive 2s ease-out forwards;
+}
+
+.seventy.start {
+	width: 0px;
+	background: rgb(137, 139, 150);
+	-webkit-animation: seventy 2s ease-out forwards;
+	   -moz-animation: seventy 2s ease-out forwards;
+	    -ms-animation: seventy 2s ease-out forwards;
+	     -o-animation: seventy 2s ease-out forwards;
+	        animation: seventy 2s ease-out forwards;
+}
+
+.fifty.start {
+	width: 0px;
+	background: rgb(137, 139, 150);
+	-webkit-animation: fifty 2s ease-out forwards;
+	   -moz-animation: fifty 2s ease-out forwards;
+	    -ms-animation: fifty 2s ease-out forwards;
+	     -o-animation: fifty 2s ease-out forwards;
+	        animation: fifty 2s ease-out forwards;
+}
+
+.twentyfive.start {
+	width: 0px;
+	background: rgb(137, 139, 150);
+	-webkit-animation: twentyfive 2s ease-out forwards;
+	   -moz-animation: twentyfive 2s ease-out forwards;
+	    -ms-animation: twentyfive 2s ease-out forwards;
+	     -o-animation: twentyfive 2s ease-out forwards;
+	        animation: twentyfive 2s ease-out forwards;
+}
+
+.fifteen.start {
+	width: 0px;
+	background: rgb(137, 139, 150);
+	-webkit-animation: fifteen 2s ease-out forwards;
+	   -moz-animation: fifteen 2s ease-out forwards;
+	    -ms-animation: fifteen 2s ease-out forwards;
+	     -o-animation: fifteen 2s ease-out forwards;
+	        animation: fifteen 2s ease-out forwards;
+}
+
+@-moz-keyframes seventyfive {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 75%;
+    }
+}
+
+@-webkit-keyframes seventyfive {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 75%;
+    }
+}
+
+@-moz-keyframes seventyfive {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 75%;
+    }
+}
+
+@-webkit-keyframes seventy {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 70%;
+    }
+}
+
+@-moz-keyframes seventy {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 70%;
+    }
+}
+
+@-webkit-keyframes fifty {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 50%;
+    }
+}
+
+@-moz-keyframes fifty {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 50%;
+    }
+}
+
+@-webkit-keyframes twentyfive {
+	0% {
+	    width: 0px;
+	}
+
+	100% {
+	    width: 25%;
+	}
+}
+
+@-moz-keyframes twentyfive {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 25%;
+    }
+}
+
+@-webkit-keyframes fifteen {
+	0% {
+	    width: 0px;
+	}
+
+	100% {
+	    width: 15%;
+	}
+}
+
+@-moz-keyframes fifteen {
+    0% {
+        width: 0px;
+    }
+
+    100% {
+        width: 15%;
+    }
+}
+
+
+/*MEDIA QUERIES*/
+
+@media (min-width: 500px) {
+  /*CONTACT STYLES*/
+  .button-container-soc {
+    height: 165px;
+    width: 165px;
+  }
+
+}
+@media (min-width: 700px) {
+
+  .img-4 {
+    background-size: 100%;
+  }
+
+  /*NAVIGATION STYLES*/
+  .nav-head {
+    display: flex;
+  }
+
+  /*FEATURE SYTLES*/
+  .header {
+    font-size: 80px;
+    border: solid 3px rgb(255, 255, 255);
+    margin: -20px;
+  }
+
+  .sub-title {
+    font-size: 30px;
+  }
+
+  /*HEADLINE STYLES*/
+  .sub-head {
+    font-size: 40px;
+  }
+
+  .sub-head-w {
+    font-size: 40px;
+  }
+
+  /*PROCESS STYLE*/
+  .step-call {
+    font-size: 20px;
+  }
+
+  .step-call-hide {
+    font-size: 20px;
+    padding: 10px 17.5px;
+  }
+
+  .step-name {
+    font-size: 20px;
+    width: 350px;
+  }
+
+  .process-content {
+    font-size: 20px;
+    max-width: 75%;
+  }
+  /*PORTFOLIO STYLE*/
+
+  .img-grid {
+    flex-direction: row;
+  }
+
+  .port-img {
+    width: 300px;
+    height: 200px;
+  }
+
+  /*RESUME STYLE*/
+  .resume-topic {
+    font-size: 24px;
+
+  }
+
+  .normal-text {
+    font-size: 20px;
+    margin-bottom: 50px;
+
+  }
+
+  .job-name {
+    font-size: 22px;
+  }
+
+  .standalone {
+    max-width: 50%;
+  }
+
+  .doc-row {
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    max-width: 50%;
+  }
+
+  .topic-grid {
+    flex-direction: row;
+  }
+
+  /*CONTACT STYLES*/
+
+  .contact-subshell {
+    flex-direction: row;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .illinois-img {
+    display: block;
+  }
+
+  .icon-container {
+    justify-content: flex-start;
+  }
+
+}
+
+
+@media (min-width: 1000px) {
+  /*FEATURE SYTLES*/
+  .header {
+    font-size: 100px;
+    margin: -30px;
+  }
+
+  .sub-title {
+    font-size: 40px;
+  }
+
+  /*HEADLINE STYLES*/
+  .sub-head {
+    font-size: 44px;
+  }
+
+  .sub-head-w {
+    font-size: 44px;
+  }
+
+  /*PROCESS STYLE*/
+  .step-name {
+    width: 450px;
+  }
+
+  /*PORTFOLIO STYLES*/
+  .img-grid {
+    max-width: 1000px;
+  }
+
+  /*RESUME STYLE*/
+  .bar {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .skill-2 {
+    width: 45%;
+    padding: 2em;
+  }
+
+  .button-container-doc {
+    margin: 0px;
+  }
+
+  .topic-grid {
+    flex-direction: row;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  .port-sect-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 45%;
+  }
+
+  .statement {
+    width: 90%;
+  }
+
+  .resume-topic {
+    width: 90%;
+  }
+
+  /*CONTACT STYLES*/
+  .button-container-soc {
+    height: 225px;
+    width: 225px;
+  }
+
+  .icon-container {
+    margin-left: -50px;
+  }
+}

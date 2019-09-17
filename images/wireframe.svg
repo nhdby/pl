@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1600px"
+	 height="1800px" viewBox="0 0 1600 1800" enable-background="new 0 0 1600 1800" xml:space="preserve">
+<symbol  id="iPhone_5" viewBox="-375.354 -784.371 747.71 1571.244">
+	<path fill="#2292C4" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" d="M261.516,774.011h-9.934v5.862
+		c0,2.762-2.238,5-5,5H134.604c-2.761,0-5-2.238-5-5v-5.862h-383.554c-60.11,0-108.84-48.729-108.84-108.839v-100.6h-5.565
+		c-2.762,0-5-2.238-5-5V496.92c0-2.762,2.238-5,5-5h5.565v-58.778h-5.565c-2.762,0-5-2.239-5-5v-62.652c0-2.761,2.238-5,5-5h5.565
+		V303.21h-5.565c-2.762,0-5-2.239-5-5v-62.652c0-2.761,2.238-5,5-5h5.565v-904.089c0-60.109,48.729-108.84,108.84-108.84h515.465
+		c60.111,0,108.84,48.73,108.84,108.84V665.172C370.355,725.281,321.627,774.011,261.516,774.011z"/>
+	<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-miterlimit="10" d="M69.501,644.264
+		c0-6.057-4.909-10.965-10.964-10.965H-44.972c-6.055,0-10.964,4.908-10.964,10.965l0,0c0,6.055,4.909,10.963,10.964,10.963H58.537
+		C64.592,655.227,69.501,650.318,69.501,644.264L69.501,644.264z"/>
+	<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-miterlimit="10" d="M-7.991,702.986
+		c0,6.979,5.657,12.637,12.637,12.637s12.637-5.658,12.637-12.637c0-6.979-5.657-12.637-12.637-12.637S-7.991,696.007-7.991,702.986
+		z"/>
+	<path opacity="0.5" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-miterlimit="10" d="M-60.217-673.574
+		c0,35.346,28.654,64,64,64s64-28.654,64-64s-28.654-64-64-64S-60.217-708.919-60.217-673.574z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="5" stroke-miterlimit="10" d="M325.65-570.376c0-2.762-2.238-5-5-5h-630
+		c-2.762,0-5,2.238-5,5V555.622c0,2.761,2.238,5,5,5h630c2.762,0,5-2.239,5-5V-570.376z"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="5" stroke-miterlimit="10" x1="-314.35" y1="522.426" x2="325.65" y2="522.426"/>
+	<g>
+		<polygon fill="#FFFFFF" points="-266.257,530.955 -260.693,530.955 -260.693,549.623 -266.257,549.623 		"/>
+		<polygon fill="#FFFFFF" points="-274.863,530.955 -269.3,530.955 -269.3,546.367 -274.863,546.367 		"/>
+		<polygon fill="#FFFFFF" points="-283.469,530.955 -277.906,530.955 -277.906,543.111 -283.469,543.111 		"/>
+		<polygon fill="#FFFFFF" points="-292.075,530.955 -286.512,530.955 -286.512,539.855 -292.075,539.855 		"/>
+		<polygon fill="#FFFFFF" points="-300.681,530.955 -295.117,530.955 -295.117,536.6 -300.681,536.6 		"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M307.407,547.252h-30.004v-12.026h30.004V547.252z M313.868,545.265h-2.485v4.372
+				c0,0.879-0.712,1.592-1.591,1.592h-34.773c-0.879,0-1.591-0.713-1.591-1.592V532.94c0-0.878,0.712-1.59,1.591-1.59h34.773
+				c0.879,0,1.591,0.712,1.591,1.59v4.272h2.485c0.878,0,1.59,0.712,1.59,1.59v4.871
+				C315.458,544.553,314.746,545.265,313.868,545.265z M309.395,533.338h-33.979v15.902h33.979V533.338z M313.37,539.367h-1.987
+				v3.91h1.987V539.367z"/>
+		</g>
+	</g>
+</symbol>
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	<ellipse fill="#C1DBEE" cx="917.026" cy="559.917" rx="9.106" ry="9.147"/>
+	<g>
+		
+			<use xlink:href="#iPhone_5"  width="747.71" height="1571.244" id="XMLID_1_" x="-375.354" y="-784.371" transform="matrix(0.5 0 0 -0.5 803.8018 444.4907)" overflow="visible"/>
+		<rect x="647.769" y="183.702" fill="#C1DBEE" width="317.474" height="547.415"/>
+		<g>
+			<rect x="647.769" y="181.278" fill="#2292C4" width="317.474" height="45.859"/>
+			<path fill="#FFFFFF" d="M958.468,211.861c0,4.019-2.286,7.277-5.106,7.277H659.648c-2.819,0-5.108-3.258-5.108-7.277v-16.374
+				c0-4.019,2.289-7.277,5.108-7.277h293.713c2.82,0,5.106,3.258,5.106,7.277V211.861z"/>
+		</g>
+	</g>
+	<g>
+		<rect x="660.155" y="238.917" fill="#A3CDE8" width="141.314" height="141.314"/>
+		<text transform="matrix(0.9957 0 0 1 694.3623 312.1904)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Dashboard</text>
+	</g>
+	<g>
+		<rect x="660.786" y="386.933" fill="#A3CDE8" width="141.314" height="141.314"/>
+		<text transform="matrix(0.9957 0 0 1 710.335 460.207)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Forms</text>
+	</g>
+	<g>
+		<rect x="661.129" y="536.677" fill="#A3CDE8" width="141.314" height="141.314"/>
+		<text transform="matrix(0.9957 0 0 1 700.7275 609.9512)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Plan Grid</text>
+	</g>
+	<g>
+		<rect x="810.05" y="240.053" fill="#A3CDE8" width="141.314" height="141.314"/>
+		<text transform="matrix(0.9957 0 0 1 853.792 313.3267)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Projects</text>
+	</g>
+	<g>
+		<rect x="810.681" y="388.069" fill="#A3CDE8" width="141.314" height="141.314"/>
+		<text transform="matrix(0.9957 0 0 1 855.249 461.3433)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Reports</text>
+	</g>
+	<g>
+		<rect x="811.023" y="537.813" fill="#A3CDE8" width="141.314" height="141.314"/>
+		<text transform="matrix(0.9957 0 0 1 824.1104 611.0874)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Share Point Sync</text>
+	</g>
+	<g>
+		
+			<use xlink:href="#iPhone_5"  width="747.71" height="1571.244" id="XMLID_3_" x="-375.354" y="-784.371" transform="matrix(0.5 0 0 -0.5 1303.9336 444.4907)" overflow="visible"/>
+		<rect x="1147.9" y="183.702" fill="#C1DBEE" width="317.474" height="547.415"/>
+		<g>
+			<rect x="1147.9" y="181.278" fill="#2292C4" width="317.474" height="45.859"/>
+			<path fill="#FFFFFF" d="M1458.6,211.861c0,4.019-2.286,7.277-5.106,7.277H1159.78c-2.819,0-5.108-3.258-5.108-7.277v-16.374
+				c0-4.019,2.289-7.277,5.108-7.277h293.713c2.82,0,5.106,3.258,5.106,7.277V211.861z"/>
+		</g>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 740.8223 210.126)" fill="#3991C3" font-family="'Helvetica'" font-size="16.0023">WWW.URL.COM</text>
+	<g>
+		<rect x="1162.199" y="282.053" fill="#67ADDA" width="288.955" height="35.662"/>
+		<text transform="matrix(1 0 0 1 1221.8467 306.8838)" fill="#FFFFFF" font-family="'Helvetica'" font-size="18.3873">Create a new project</text>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 1245.249 210.3076)" fill="#3991C3" font-family="'Helvetica'" font-size="16.0023">WWW.URL.COM</text>
+	<g>
+		<rect x="1162.199" y="385.227" fill="#A3CDE8" width="288.955" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1172.5869 406.3066)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Project One - Chicago, IL</text>
+	</g>
+	<g>
+		<rect x="1162.848" y="428.644" fill="#A3CDE8" width="288.955" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1173.2354 449.7231)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Project Two - Detroit, MI</text>
+	</g>
+	<g>
+		<rect x="1162.848" y="472.029" fill="#A3CDE8" width="288.955" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1173.2354 493.1089)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Project Three - New York, NY</text>
+	</g>
+	<g>
+		<rect x="1162.281" y="517.14" fill="#A3CDE8" width="288.955" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1172.6689 538.2192)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Project Four - Sacramento, CA</text>
+	</g>
+	<g>
+		<rect x="1162.523" y="561.223" fill="#A3CDE8" width="288.955" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1172.9111 582.3027)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Project Five - Orlando, FL</text>
+	</g>
+	<g>
+		<rect x="1163.172" y="604.64" fill="#A3CDE8" width="288.955" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1173.5596 625.7192)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Project Six - San Francisco, CA</text>
+	</g>
+	<g>
+		<rect x="1163.172" y="648.025" fill="#A3CDE8" width="288.955" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1173.5596 669.105)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Project Seven - Hartford, CT</text>
+	</g>
+	<g>
+		<rect x="1162.605" y="692.136" fill="#A3CDE8" width="288.955" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1172.9932 713.2153)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Project Eight - Santa Monica, CA</text>
+	</g>
+	<g>
+		<rect x="1161.348" y="328.126" fill="#67ADDA" width="288.955" height="35.662"/>
+		<text transform="matrix(1 0 0 1 1223.5586 352.957)" fill="#FFFFFF" font-family="'Helvetica'" font-size="18.3873">View project archive</text>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 1262.6631 264.4565)" fill="#3991C3" font-family="'Helvetica'" font-size="24">Projects</text>
+	<g>
+		<circle fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" cx="912.525" cy="354.208" r="13.513"/>
+		<circle fill="#224099" stroke="#540700" stroke-miterlimit="10" cx="1226.503" cy="256.208" r="10.161"/>
+		<g>
+			<path fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" d="M927.423,354.208h103.138c11,0,20-9,20-20v-58
+				c0-11,9-20,20-20h145.782"/>
+		</g>
+	</g>
+	<g>
+		
+			<use xlink:href="#iPhone_5"  width="747.71" height="1571.244" id="XMLID_4_" x="-375.354" y="-784.371" transform="matrix(0.5 0 0 -0.5 304.8018 448.8052)" overflow="visible"/>
+		<rect x="148.769" y="188.017" fill="#C1DBEE" width="317.474" height="547.415"/>
+		<g>
+			<rect x="148.769" y="185.592" fill="#2292C4" width="317.474" height="45.859"/>
+			<path fill="#FFFFFF" d="M459.468,216.175c0,4.019-2.286,7.277-5.106,7.277H160.648c-2.819,0-5.108-3.258-5.108-7.277v-16.374
+				c0-4.019,2.289-7.277,5.108-7.277h293.713c2.82,0,5.106,3.258,5.106,7.277V216.175z"/>
+		</g>
+	</g>
+	<g>
+		
+			<use xlink:href="#iPhone_5"  width="747.71" height="1571.244" id="XMLID_7_" x="-375.354" y="-784.371" transform="matrix(0.5 0 0 -0.5 805.877 1364.9761)" overflow="visible"/>
+		<rect x="649.844" y="1104.187" fill="#C1DBEE" width="317.474" height="547.415"/>
+		<g>
+			<rect x="649.844" y="1101.763" fill="#2292C4" width="317.474" height="45.859"/>
+			<path fill="#FFFFFF" d="M960.543,1132.346c0,4.019-2.286,7.277-5.106,7.277H661.724c-2.819,0-5.108-3.259-5.108-7.277v-16.374
+				c0-4.019,2.289-7.277,5.108-7.277h293.713c2.82,0,5.106,3.259,5.106,7.277V1132.346z"/>
+		</g>
+	</g>
+	<g>
+		
+			<use xlink:href="#iPhone_5"  width="747.71" height="1571.244" id="XMLID_6_" x="-375.354" y="-784.371" transform="matrix(0.5 0 0 -0.5 1306.0088 1364.9761)" overflow="visible"/>
+		<rect x="1149.976" y="1104.187" fill="#C1DBEE" width="317.474" height="547.415"/>
+		<g>
+			<rect x="1149.976" y="1101.763" fill="#2292C4" width="317.474" height="45.859"/>
+			<path fill="#FFFFFF" d="M1460.675,1132.346c0,4.019-2.286,7.277-5.106,7.277h-293.713c-2.819,0-5.108-3.259-5.108-7.277v-16.374
+				c0-4.019,2.289-7.277,5.108-7.277h293.713c2.82,0,5.106,3.259,5.106,7.277V1132.346z"/>
+		</g>
+	</g>
+	<g>
+		
+			<use xlink:href="#iPhone_5"  width="747.71" height="1571.244" id="XMLID_5_" x="-375.354" y="-784.371" transform="matrix(0.5 0 0 -0.5 306.877 1369.2905)" overflow="visible"/>
+		<rect x="150.844" y="1108.501" fill="#C1DBEE" width="317.474" height="547.415"/>
+		<g>
+			<rect x="150.844" y="1106.078" fill="#2292C4" width="317.474" height="45.859"/>
+			<path fill="#FFFFFF" d="M461.543,1136.661c0,4.019-2.286,7.277-5.106,7.277H162.724c-2.819,0-5.108-3.259-5.108-7.277v-16.374
+				c0-4.019,2.289-7.277,5.108-7.277h293.713c2.82,0,5.106,3.259,5.106,7.277V1136.661z"/>
+		</g>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 244.4268 264.4565)" fill="#3991C3" font-family="'Helvetica'" font-size="24">Dashboard</text>
+	<text transform="matrix(0.9957 0 0 1 241.3711 214.3076)" fill="#3991C3" font-family="'Helvetica'" font-size="16.0023">WWW.URL.COM</text>
+	<g>
+		<rect x="661.216" y="685.678" fill="#67ADDA" width="291.122" height="35.662"/>
+		<text transform="matrix(1.0075 0 0 1 773.8203 710.5088)" fill="#FFFFFF" font-family="'Helvetica'" font-size="18.3873">Log Out</text>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 1242.7441 1183.1978)"><tspan x="0" y="0" fill="#3991C3" font-family="'Helvetica'" font-size="24">Project Two</tspan><tspan x="26.458" y="21.336" fill="#3991C3" font-family="'Helvetica'" font-size="16">Detroit, MI</tspan></text>
+	<g>
+		<g>
+			<rect x="1195.282" y="1218.2" fill="#A3CDE8" width="257.948" height="32.08"/>
+			<text transform="matrix(0.9957 0 0 1 1205.6699 1239.2798)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Initiation</text>
+		</g>
+		<g>
+			<rect x="1164.274" y="1218.2" fill="#67ADDA" width="32.09" height="32.08"/>
+			<text transform="matrix(1 0 0 1 1174.9502 1239.2798)" fill="#FFFFFF" font-family="'Helvetica'" font-size="18.3873">+</text>
+		</g>
+	</g>
+	<g>
+		<rect x="1195.931" y="1562.543" fill="#A3CDE8" width="257.948" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1206.3184 1583.6235)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Bidding</text>
+	</g>
+	<g>
+		<rect x="1164.923" y="1562.543" fill="#67ADDA" width="32.09" height="32.08"/>
+		<text transform="matrix(1 0 0 1 1175.5986 1583.6235)" fill="#FFFFFF" font-family="'Helvetica'" font-size="18.3873">+</text>
+	</g>
+	<g>
+		<rect x="1195.363" y="1605.935" fill="#A3CDE8" width="257.948" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1205.751 1627.0151)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Pre-Bid</text>
+	</g>
+	<g>
+		<rect x="1164.355" y="1605.935" fill="#67ADDA" width="32.09" height="32.08"/>
+		<text transform="matrix(1 0 0 1 1175.0312 1627.0151)" fill="#FFFFFF" font-family="'Helvetica'" font-size="18.3873">+</text>
+	</g>
+	<g>
+		<rect x="1196.086" y="1520.442" fill="#A3CDE8" width="257.948" height="32.08"/>
+		<text transform="matrix(0.9957 0 0 1 1206.4736 1541.522)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Pre-Bid</text>
+	</g>
+	<g>
+		<rect x="1165.078" y="1520.442" fill="#67ADDA" width="32.09" height="32.08"/>
+		<text transform="matrix(1 0 0 1 1175.7539 1541.522)" fill="#FFFFFF" font-family="'Helvetica'" font-size="18.3873">+</text>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 1164.9229 1295.8735)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Notification of Project</text>
+	<text transform="matrix(0.9957 0 0 1 1395.8721 1295.8735)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">09/09/15</text>
+	<line fill="none" stroke="#3991C3" stroke-miterlimit="10" x1="1166.489" y1="1276.62" x2="1452.623" y2="1276.62"/>
+	<text transform="matrix(0.9957 0 0 1 1164.3564 1321.5396)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Client Meeting</text>
+	<text transform="matrix(0.9957 0 0 1 1395.3057 1321.5396)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">09/10/15</text>
+	<text transform="matrix(0.9957 0 0 1 1165.6445 1348.522)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Site Visit</text>
+	<text transform="matrix(0.9957 0 0 1 1396.5938 1348.522)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">09/15/15</text>
+	<text transform="matrix(0.9957 0 0 1 1166.2891 1374.8735)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Permit Submission</text>
+	<text transform="matrix(0.9957 0 0 1 1397.2383 1374.8735)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">09/17/15</text>
+	<text transform="matrix(0.9957 0 0 1 1167.7227 1401.5396)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Value Engineering</text>
+	<text transform="matrix(0.9957 0 0 1 1167.0107 1427.522)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Construction Drawings</text>
+	<text transform="matrix(0.9957 0 0 1 1165.0781 1272.5415)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">TASK</text>
+	<text transform="matrix(0.9957 0 0 1 1359.8867 1272.5415)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">COMPLETED</text>
+	<text transform="matrix(0.9957 0 0 1 1167.7227 1453.188)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Plan Review</text>
+	<g>
+		<path fill="none" stroke="#3991C3" stroke-width="2" stroke-miterlimit="10" d="M1454.034,1451.906
+			c0,0.708-0.573,1.282-1.28,1.282h-9.684c-0.707,0-1.281-0.574-1.281-1.282v-9.682c0-0.708,0.574-1.282,1.281-1.282h9.684
+			c0.707,0,1.28,0.574,1.28,1.282V1451.906z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#3991C3" stroke-width="2" stroke-miterlimit="10" d="M1454.034,1426.24c0,0.708-0.573,1.282-1.28,1.282
+			h-9.684c-0.707,0-1.281-0.574-1.281-1.282v-9.682c0-0.708,0.574-1.282,1.281-1.282h9.684c0.707,0,1.28,0.574,1.28,1.282V1426.24z"
+			/>
+	</g>
+	<g>
+		<path fill="none" stroke="#3991C3" stroke-width="2" stroke-miterlimit="10" d="M1454.034,1400.257
+			c0,0.708-0.573,1.282-1.28,1.282h-9.684c-0.707,0-1.281-0.574-1.281-1.282v-9.682c0-0.708,0.574-1.282,1.281-1.282h9.684
+			c0.707,0,1.28,0.574,1.28,1.282V1400.257z"/>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 1167.7227 1478.854)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Maintience Meeting</text>
+	<g>
+		<path fill="none" stroke="#3991C3" stroke-width="2" stroke-miterlimit="10" d="M1454.034,1477.572
+			c0,0.708-0.573,1.282-1.28,1.282h-9.684c-0.707,0-1.281-0.574-1.281-1.282v-9.682c0-0.708,0.574-1.282,1.281-1.282h9.684
+			c0.707,0,1.28,0.574,1.28,1.282V1477.572z"/>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 1167.7227 1503.188)" fill="#3991C3" font-family="'Helvetica'" font-size="14.9658">Vendor Notification</text>
+	<g>
+		<path fill="none" stroke="#3991C3" stroke-width="2" stroke-miterlimit="10" d="M1454.034,1501.905
+			c0,0.708-0.573,1.282-1.28,1.282h-9.684c-0.707,0-1.281-0.574-1.281-1.282v-9.682c0-0.708,0.574-1.282,1.281-1.282h9.684
+			c0.707,0,1.28,0.574,1.28,1.282V1501.905z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" d="M1424.098,444.683h107c8.25,0,15,6.75,15,15
+			v708.515c0,8.25-6.75,15-15,15h-154"/>
+	</g>
+	<circle fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" cx="1412.097" cy="444.683" r="13.513"/>
+	<circle fill="#224099" cx="382.937" cy="256.208" r="10.161"/>
+	<circle fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" cx="689.043" cy="354.208" r="13.513"/>
+	<circle fill="#224099" cx="1383.097" cy="1183.198" r="10.161"/>
+	<g>
+		<rect x="157.91" y="324.939" opacity="0.5" fill="#FFFFFF" width="297.566" height="85.562"/>
+		<rect x="157.91" y="325.14" fill="#FFFFFF" width="297.566" height="39"/>
+		<text transform="matrix(1 0 0 1 176.0078 350.6201)" fill="#3991C3" font-family="'Helvetica'" font-size="14">Project One - Chicago, IL</text>
+		<text transform="matrix(1 0 0 1 176.0078 382.3374)" fill="#3991C3" font-family="'Helvetica'" font-size="12">• Contractor Bids</text>
+		<text transform="matrix(1 0 0 1 176.0078 401.3369)" fill="#3991C3" font-family="'Helvetica'" font-size="12">• Bid Leveling</text>
+	</g>
+	<g>
+		<rect x="157.91" y="429.249" opacity="0.5" fill="#FFFFFF" width="297.566" height="85.562"/>
+		<rect x="157.91" y="429.449" fill="#FFFFFF" width="297.566" height="39"/>
+		<text transform="matrix(1 0 0 1 176.0078 454.9292)" fill="#3991C3" font-family="'Helvetica'" font-size="14">Project Seven - Hartford, CT</text>
+		<text transform="matrix(1 0 0 1 176.0078 486.6465)" fill="#3991C3" font-family="'Helvetica'" font-size="12">• Project Completion</text>
+		<text transform="matrix(1 0 0 1 176.0078 505.646)" fill="#3991C3" font-family="'Helvetica'" font-size="12">• Client Notification for Completion</text>
+	</g>
+	<g>
+		<g>
+			<path fill="none" stroke="#3991C3" stroke-miterlimit="10" d="M443.261,504.047c0,0.607-0.491,1.1-1.098,1.1h-8.306
+				c-0.605,0-1.099-0.493-1.099-1.1v-8.304c0-0.607,0.493-1.1,1.099-1.1h8.306c0.606,0,1.098,0.493,1.098,1.1V504.047z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="none" stroke="#3991C3" stroke-miterlimit="10" d="M443.261,485.547c0,0.607-0.491,1.1-1.098,1.1h-8.306
+				c-0.605,0-1.099-0.493-1.099-1.1v-8.304c0-0.607,0.493-1.1,1.099-1.1h8.306c0.606,0,1.098,0.493,1.098,1.1V485.547z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="none" stroke="#3991C3" stroke-miterlimit="10" d="M443.261,400.237c0,0.607-0.491,1.1-1.098,1.1h-8.306
+				c-0.605,0-1.099-0.493-1.099-1.1v-8.304c0-0.607,0.493-1.1,1.099-1.1h8.306c0.606,0,1.098,0.493,1.098,1.1V400.237z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="none" stroke="#3991C3" stroke-miterlimit="10" d="M443.261,381.737c0,0.607-0.491,1.1-1.098,1.1h-8.306
+				c-0.605,0-1.099-0.493-1.099-1.1v-8.304c0-0.607,0.493-1.1,1.099-1.1h8.306c0.606,0,1.098,0.493,1.098,1.1V381.737z"/>
+		</g>
+	</g>
+	
+		<text transform="matrix(0.9957 0 0 1 157.9102 313.3267)" fill="#3991C3" font-family="'Helvetica'" font-size="20" text-decoration=" underline">Due Today</text>
+	
+		<text transform="matrix(0.9957 0 0 1 158.7637 564.3267)" fill="#3991C3" font-family="'Helvetica'" font-size="20" text-decoration=" underline">Due Tomorrow</text>
+	<g>
+		<rect x="158.844" y="576.351" opacity="0.5" fill="#FFFFFF" width="297.566" height="71.674"/>
+		<rect x="158.844" y="576.551" fill="#FFFFFF" width="297.566" height="39"/>
+		<text transform="matrix(1 0 0 1 176.9414 602.0317)" fill="#3991C3" font-family="'Helvetica'" font-size="14">Project Four - Sacramento, CA</text>
+		<text transform="matrix(1 0 0 1 176.9414 633.749)" fill="#3991C3" font-family="'Helvetica'" font-size="12">• Request Project Update</text>
+	</g>
+	<g>
+		<path fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" d="M382.938,256.208h103.616c8.25,0,15,6.75,15,15v68
+			c0,8.25,6.75,15,15,15H675.53"/>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 744.2012 1129.8257)" fill="#3991C3" font-family="'Helvetica'" font-size="16.0023">WWW.URL.COM</text>
+	<text transform="matrix(0.9957 0 0 1 1248.6279 1130.0073)" fill="#3991C3" font-family="'Helvetica'" font-size="16.0023">WWW.URL.COM</text>
+	<text transform="matrix(0.9957 0 0 1 244.75 1134.0073)" fill="#3991C3" font-family="'Helvetica'" font-size="16.0023">WWW.URL.COM</text>
+	<circle fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" cx="420.246" cy="499.896" r="13.513"/>
+	<g>
+		<g>
+			<path fill="none" stroke="#3991C3" stroke-miterlimit="10" d="M443.261,637.901c0,0.607-0.491,1.1-1.098,1.1h-8.306
+				c-0.605,0-1.099-0.493-1.099-1.1v-8.304c0-0.607,0.493-1.1,1.099-1.1h8.306c0.606,0,1.098,0.493,1.098,1.1V637.901z"/>
+		</g>
+	</g>
+	<circle fill="#224099" cx="393.097" cy="1181.54" r="10.161"/>
+	<polygon fill="#3991C3" stroke="#3991C3" stroke-miterlimit="10" points="417.379,494.8 426.103,500.081 417.379,505.713 	"/>
+	<polygon fill="#3991C3" stroke="#3991C3" stroke-miterlimit="10" points="419.246,628.292 427.97,633.574 419.246,639.206 	"/>
+	<rect x="150.844" y="1153.025" fill="#C1DBEE" width="317.474" height="503.518"/>
+	<polyline fill="#165B8C" points="468.317,1153.025 150.844,1153.025 150.844,1107.876 468.317,1107.876 468.317,1153.025 	"/>
+	<g>
+		<path fill="#C1DBEE" d="M453.625,1121.513h-0.047h-1.923h-0.047c-0.694,0.012-1.257,0.584-1.257,1.289v1.865
+			c0,0.664,0.498,1.213,1.141,1.283h0.279h1.69h0.279c0.635-0.07,1.132-0.605,1.142-1.26v-0.045v-1.822v-0.045
+			C454.869,1122.085,454.313,1121.525,453.625,1121.513"/>
+		<path fill="#C1DBEE" d="M453.69,1135.951h-0.174h-1.795h-0.177c-0.66,0.045-1.184,0.592-1.193,1.264v0.045v1.816v0.045
+			c0.01,0.705,0.581,1.27,1.281,1.27h1.973c0.675,0,1.232-0.533,1.277-1.203v-0.176v-1.686v-0.178
+			C454.838,1136.507,454.331,1135.994,453.69,1135.951"/>
+		<path fill="#C1DBEE" d="M453.668,1128.732h-0.135h-1.835h-0.133c-0.677,0.035-1.214,0.6-1.214,1.289v1.861
+			c0,0.688,0.533,1.25,1.206,1.287h0.146h1.762h0.271c0.644-0.066,1.146-0.615,1.146-1.281v-1.867
+			C454.883,1129.332,454.343,1128.767,453.668,1128.732"/>
+	</g>
+	<text transform="matrix(0.9935 0 0 1 288.4756 1136.4604)" fill="#FFFFFF" font-family="'Helvetica'" font-size="17.5">Email</text>
+	<polyline opacity="0.25" fill="none" stroke="#1F4E81" stroke-width="0.5" stroke-miterlimit="10" points="159.785,1187.025 
+		159.785,1192.025 457.389,1192.025 457.389,1187.025 	"/>
+	
+		<text transform="matrix(0.9935 0 0 1 165.3008 1179.8901)" opacity="0.7" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">To: client@clientsname.com</text>
+	<polyline opacity="0.25" fill="none" stroke="#1F4E81" stroke-width="0.5" stroke-miterlimit="10" points="160.779,1227.917 
+		160.779,1232.917 458.383,1232.917 458.383,1227.917 	"/>
+	
+		<text transform="matrix(0.9935 0 0 1 166.2939 1220.7817)" opacity="0.7" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">Subject: Project Seven Completion</text>
+	<text transform="matrix(0.9935 0 0 1 166.2939 1276.6196)" opacity="0.7"><tspan x="0" y="0" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">Mr. Smith</tspan><tspan x="0" y="42" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">This emails servers as formal notice</tspan><tspan x="0" y="63" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">for the completion of Project Seven</tspan><tspan x="0" y="84" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">in Hartford, CT. Should you have any </tspan><tspan x="0" y="105" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">questions or concerns, please do not</tspan><tspan x="0" y="126" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">hesitate to contact me. </tspan></text>
+	<circle fill="#224099" cx="160.839" cy="1204.197" r="10.161"/>
+	<g>
+		<path fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" d="M433.759,499.896h93.329c8.25,0,15,6.75,15,15
+			v357.482c0,8.25-6.75,15-15,15H84.611c-8.25,0-15,6.75-15,15v286.819c0,8.25,6.75,15,15,15h71.926"/>
+	</g>
+	<g>
+		<rect x="150.844" y="1438.373" fill="#1F4E81" width="317.474" height="218.17"/>
+		<g>
+			<path fill="#3991C3" d="M228.948,1587.177c0,2.252-1.811,4.072-4.044,4.072h-16.686c-2.232,0-4.045-1.82-4.045-4.072v-29.006
+				c0-2.252,1.812-4.072,4.045-4.072h16.686c2.233,0,4.044,1.82,4.044,4.072V1587.177z"/>
+			<path fill="#3991C3" d="M259.957,1587.177c0,2.252-1.812,4.072-4.045,4.072h-16.684c-2.234,0-4.045-1.82-4.045-4.072v-29.006
+				c0-2.252,1.811-4.072,4.045-4.072h16.684c2.232,0,4.045,1.82,4.045,4.072V1587.177z"/>
+			<path fill="#3991C3" d="M290.967,1587.177c0,2.252-1.812,4.072-4.045,4.072h-16.684c-2.234,0-4.045-1.82-4.045-4.072v-29.006
+				c0-2.252,1.811-4.072,4.045-4.072h16.684c2.233,0,4.045,1.82,4.045,4.072V1587.177z"/>
+			<path fill="#3991C3" d="M321.975,1587.177c0,2.252-1.81,4.072-4.044,4.072h-16.686c-2.232,0-4.044-1.82-4.044-4.072v-29.006
+				c0-2.252,1.812-4.072,4.044-4.072h16.686c2.234,0,4.044,1.82,4.044,4.072V1587.177z"/>
+			<path fill="#3991C3" d="M352.984,1587.177c0,2.252-1.807,4.072-4.043,4.072h-16.687c-2.233,0-4.042-1.82-4.042-4.072v-29.006
+				c0-2.252,1.809-4.072,4.042-4.072h16.687c2.236,0,4.043,1.82,4.043,4.072V1587.177z"/>
+			<path fill="#3991C3" d="M383.992,1587.177c0,2.252-1.809,4.072-4.046,4.072h-16.683c-2.236,0-4.045-1.82-4.045-4.072v-29.006
+				c0-2.252,1.809-4.072,4.045-4.072h16.683c2.237,0,4.046,1.82,4.046,4.072V1587.177z"/>
+			<path fill="#3991C3" d="M415.002,1587.177c0,2.252-1.808,4.072-4.043,4.072h-16.686c-2.235,0-4.046-1.82-4.046-4.072v-29.006
+				c0-2.252,1.811-4.072,4.046-4.072h16.686c2.235,0,4.043,1.82,4.043,4.072V1587.177z"/>
+			<path fill="#3991C3" d="M197.939,1534.761c0,2.25-1.809,4.07-4.047,4.07h-16.682c-2.233,0-4.046-1.82-4.046-4.07v-29.008
+				c0-2.252,1.812-4.072,4.046-4.072h16.682c2.238,0,4.047,1.82,4.047,4.072V1534.761z"/>
+			<path fill="#3991C3" d="M228.948,1534.761c0,2.25-1.811,4.07-4.044,4.07h-16.686c-2.232,0-4.045-1.82-4.045-4.07v-29.008
+				c0-2.252,1.812-4.072,4.045-4.072h16.686c2.233,0,4.044,1.82,4.044,4.072V1534.761z"/>
+			<path fill="#3991C3" d="M259.959,1534.761c0,2.25-1.812,4.07-4.045,4.07H239.23c-2.232,0-4.045-1.82-4.045-4.07v-29.008
+				c0-2.252,1.812-4.072,4.045-4.072h16.684c2.232,0,4.045,1.82,4.045,4.072V1534.761z"/>
+			<path fill="#3991C3" d="M290.967,1534.761c0,2.25-1.81,4.07-4.045,4.07h-16.684c-2.234,0-4.045-1.82-4.045-4.07v-29.008
+				c0-2.252,1.811-4.072,4.045-4.072h16.684c2.235,0,4.045,1.82,4.045,4.072V1534.761z"/>
+			<path fill="#3991C3" d="M321.975,1534.761c0,2.25-1.81,4.07-4.044,4.07h-16.684c-2.234,0-4.043-1.82-4.043-4.07v-29.008
+				c0-2.252,1.809-4.072,4.043-4.072h16.684c2.234,0,4.044,1.82,4.044,4.072V1534.761z"/>
+			<path fill="#3991C3" d="M352.98,1534.761c0,2.25-1.807,4.07-4.043,4.07h-16.686c-2.234,0-4.043-1.82-4.043-4.07v-29.008
+				c0-2.252,1.809-4.072,4.043-4.072h16.686c2.236,0,4.043,1.82,4.043,4.072V1534.761z"/>
+			<path fill="#3991C3" d="M383.996,1534.761c0,2.25-1.809,4.07-4.044,4.07h-16.685c-2.236,0-4.045-1.82-4.045-4.07v-29.008
+				c0-2.252,1.809-4.072,4.045-4.072h16.685c2.235,0,4.044,1.82,4.044,4.072V1534.761z"/>
+			<path fill="#3991C3" d="M414.494,1534.761c0,2.25-1.811,4.07-4.047,4.07h-16.684c-2.235,0-4.045-1.82-4.045-4.07v-29.008
+				c0-2.252,1.81-4.072,4.045-4.072h16.684c2.236,0,4.047,1.82,4.047,4.072V1534.761z"/>
+			<path fill="#3991C3" d="M445.506,1534.761c0,2.25-1.809,4.07-4.043,4.07h-16.686c-2.235,0-4.043-1.82-4.043-4.07v-29.008
+				c0-2.252,1.808-4.072,4.043-4.072h16.686c2.234,0,4.043,1.82,4.043,4.072V1534.761z"/>
+			<path fill="#3991C3" d="M182.94,1482.851c0,2.25-1.812,4.072-4.046,4.072h-16.684c-2.234,0-4.045-1.822-4.045-4.072v-29.006
+				c0-2.252,1.811-4.072,4.045-4.072h16.684c2.234,0,4.046,1.82,4.046,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M213.948,1482.851c0,2.25-1.812,4.072-4.044,4.072h-16.684c-2.236,0-4.045-1.822-4.045-4.072v-29.006
+				c0-2.252,1.809-4.072,4.045-4.072h16.684c2.232,0,4.044,1.82,4.044,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M244.958,1482.851c0,2.25-1.811,4.072-4.043,4.072h-16.687c-2.232,0-4.042-1.822-4.042-4.072v-29.006
+				c0-2.252,1.81-4.072,4.042-4.072h16.687c2.232,0,4.043,1.82,4.043,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M275.967,1482.851c0,2.25-1.809,4.072-4.043,4.072h-16.686c-2.233,0-4.044-1.822-4.044-4.072v-29.006
+				c0-2.252,1.811-4.072,4.044-4.072h16.686c2.234,0,4.043,1.82,4.043,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M306.975,1482.851c0,2.25-1.809,4.072-4.045,4.072h-16.682c-2.234,0-4.044-1.822-4.044-4.072v-29.006
+				c0-2.252,1.81-4.072,4.044-4.072h16.682c2.236,0,4.045,1.82,4.045,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M337.98,1482.851c0,2.25-1.811,4.072-4.046,4.072h-16.683c-2.235,0-4.043-1.822-4.043-4.072v-29.006
+				c0-2.252,1.808-4.072,4.043-4.072h16.683c2.235,0,4.046,1.82,4.046,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M368.995,1482.851c0,2.25-1.811,4.072-4.046,4.072h-16.683c-2.238,0-4.046-1.822-4.046-4.072v-29.006
+				c0-2.252,1.808-4.072,4.046-4.072h16.683c2.235,0,4.046,1.82,4.046,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M398.988,1482.851c0,2.25-1.809,4.072-4.043,4.072h-16.682c-2.235,0-4.043-1.822-4.043-4.072v-29.006
+				c0-2.252,1.808-4.072,4.043-4.072h16.682c2.234,0,4.043,1.82,4.043,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M429.995,1482.851c0,2.25-1.808,4.072-4.043,4.072h-16.685c-2.236,0-4.044-1.822-4.044-4.072v-29.006
+				c0-2.252,1.808-4.072,4.044-4.072h16.685c2.235,0,4.043,1.82,4.043,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M461.01,1482.851c0,2.25-1.809,4.072-4.043,4.072h-16.686c-2.235,0-4.045-1.822-4.045-4.072v-29.006
+				c0-2.252,1.81-4.072,4.045-4.072h16.686c2.234,0,4.043,1.82,4.043,4.072V1482.851z"/>
+			<path fill="#3991C3" d="M384.162,1640.615c0,2.25-1.811,4.07-4.045,4.07H239.06c-2.233,0-4.044-1.82-4.044-4.07v-29.01
+				c0-2.248,1.811-4.07,4.044-4.07h141.058c2.234,0,4.045,1.822,4.045,4.07V1640.615z"/>
+		</g>
+		<g>
+			<path fill="#1A76AB" d="M228.948,1640.615c0,2.25-1.811,4.07-4.044,4.07h-62.693c-2.234,0-4.045-1.82-4.045-4.07v-29.01
+				c0-2.248,1.811-4.07,4.045-4.07h62.693c2.233,0,4.044,1.822,4.044,4.07V1640.615z"/>
+			<path fill="#1A76AB" d="M193.052,1587.177c0,2.252-1.812,4.072-4.045,4.072h-26.796c-2.234,0-4.045-1.82-4.045-4.072v-29.006
+				c0-2.252,1.811-4.072,4.045-4.072h26.796c2.232,0,4.045,1.82,4.045,4.072V1587.177z"/>
+			<path fill="#1A76AB" d="M461.01,1587.177c0,2.252-1.809,4.072-4.043,4.072H430.17c-2.238,0-4.045-1.82-4.045-4.072v-29.006
+				c0-2.252,1.807-4.072,4.045-4.072h26.797c2.234,0,4.043,1.82,4.043,4.072V1587.177z"/>
+			<path fill="#1A76AB" d="M461.01,1640.615c0,2.25-1.809,4.07-4.043,4.07h-62.693c-2.235,0-4.046-1.82-4.046-4.07v-29.01
+				c0-2.248,1.811-4.07,4.046-4.07h62.693c2.234,0,4.043,1.822,4.043,4.07V1640.615z"/>
+		</g>
+		<g>
+			<text transform="matrix(0.9935 0 0 1 164.752 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">Q</text>
+			<text transform="matrix(0.9935 0 0 1 194.5303 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">W</text>
+			<text transform="matrix(0.9935 0 0 1 227.6025 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">E</text>
+			<text transform="matrix(0.9935 0 0 1 257.7021 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">R</text>
+			<text transform="matrix(0.9935 0 0 1 290.0381 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">T</text>
+			<text transform="matrix(0.9935 0 0 1 320.624 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">Y</text>
+			<text transform="matrix(0.9935 0 0 1 351.2266 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">U</text>
+			<text transform="matrix(0.9935 0 0 1 384.5352 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">I</text>
+			<text transform="matrix(0.9935 0 0 1 411.8135 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">O</text>
+			<text transform="matrix(0.9935 0 0 1 443.6533 1473.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">P</text>
+			<text transform="matrix(0.9935 0 0 1 181.0869 1525.6401)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">A</text>
+			<text transform="matrix(0.9935 0 0 1 212.1006 1525.6401)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">S</text>
+			<text transform="matrix(0.9935 0 0 1 241.6865 1525.6401)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">D</text>
+			<text transform="matrix(0.9935 0 0 1 273.5195 1525.6401)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">F</text>
+			<text transform="matrix(0.9935 0 0 1 303.29 1525.6401)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">G</text>
+			<text transform="matrix(0.9935 0 0 1 335.2158 1525.6401)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">H</text>
+			<text transform="matrix(0.9935 0 0 1 366.8682 1525.6401)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">J</text>
+			<text transform="matrix(0.9935 0 0 1 396.6279 1525.6401)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">K</text>
+			<text transform="matrix(0.9935 0 0 1 212.5186 1578.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">Z</text>
+			<text transform="matrix(0.9935 0 0 1 242.0977 1578.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">X</text>
+			<text transform="matrix(0.9935 0 0 1 272.6904 1578.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">C</text>
+			<text transform="matrix(0.9935 0 0 1 304.1162 1578.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">V</text>
+			<text transform="matrix(0.9935 0 0 1 335.627 1578.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">B</text>
+			<text transform="matrix(0.9935 0 0 1 365.2129 1578.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">N</text>
+			<text transform="matrix(0.9935 0 0 1 395.3906 1578.3901)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">M</text>
+			<text transform="matrix(0.9935 0 0 1 428.4678 1525.6401)" fill="#FFFFFF" font-family="'Helvetica'" font-size="15">L</text>
+		</g>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M439.742,569.588c-1.863-1.883-3.349-3.585-9.688-9.321c-3.222-2.918-6.541-6.211-7.316-7.468
+			c-0.526-0.856-2.812-5.139-4.379-7.952c-0.917-1.646-1.122-2.433-1.564-3.248c-0.519-0.946-0.866-1.475-1.131-2.013
+			c-0.3-0.608-0.511-1.221-1.055-2.355c-1.439-3.005-2.279-4.498-0.928-5.104c2.209-0.994,4.748,0.334,7.195,4.291
+			c0.815,1.313,1.708,2.676,2.305,3.503c2.396,3.317,2.689,2.044,2.689,2.044s0.671-2.361-0.048-8.562
+			c-0.718-6.202-2.62-15.293-3.593-21.653c-0.861-5.623,0.403-6.774,1.806-6.95c1.247-0.155,1.334-0.291,2.7,4.667
+			c0.557,2.02,1.184,3.737,2.061,6.523c0.36,1.145,0.932,2.231,1.375,3.833c0.832,3.013,1.908,6.755,1.908,6.755
+			s0.452,0.713,0.295-2.331c-0.156-3.045,0.753-3.875,3.249-4.175c2.493-0.301,3.305,2.477,3.305,2.477
+			c2.538-2.314,4.497-0.991,5.28-0.268c0.78,0.724,2.026,3.304,2.026,3.304s0.839-0.616,2.061-0.801
+			c1.677-0.255,2.378,0.07,3.476,1.498c0.996,1.3,3.204,8.86,3.642,11.028c0.434,2.167,0.521,6.748-0.151,12.052
+			c-0.769,6.052,2.349,9.639,2.696,11.703c0.278,1.67-3.071,4.544-7.126,6.548C446.994,569.51,440.854,570.714,439.742,569.588z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M930.293,419.136c-1.863-1.883-3.349-3.585-9.688-9.321c-3.222-2.918-6.541-6.211-7.316-7.468
+			c-0.526-0.856-2.812-5.139-4.379-7.952c-0.917-1.646-1.122-2.433-1.564-3.248c-0.519-0.946-0.866-1.475-1.131-2.013
+			c-0.3-0.608-0.511-1.221-1.055-2.355c-1.439-3.005-2.279-4.498-0.928-5.104c2.209-0.994,4.748,0.334,7.195,4.291
+			c0.815,1.313,1.708,2.676,2.305,3.503c2.396,3.317,2.689,2.044,2.689,2.044s0.671-2.361-0.048-8.562
+			c-0.718-6.202-2.62-15.293-3.593-21.653c-0.861-5.623,0.403-6.774,1.806-6.95c1.247-0.155,1.334-0.291,2.7,4.667
+			c0.557,2.02,1.184,3.737,2.061,6.523c0.36,1.145,0.932,2.231,1.375,3.833c0.832,3.013,1.908,6.755,1.908,6.755
+			s0.452,0.713,0.295-2.331c-0.156-3.045,0.753-3.875,3.249-4.175c2.493-0.301,3.305,2.477,3.305,2.477
+			c2.538-2.314,4.497-0.991,5.28-0.268c0.78,0.724,2.026,3.304,2.026,3.304s0.839-0.616,2.061-0.801
+			c1.677-0.255,2.378,0.07,3.476,1.498c0.996,1.3,3.204,8.86,3.642,11.028c0.434,2.167,0.521,6.748-0.151,12.052
+			c-0.769,6.052,2.349,9.639,2.696,11.703c0.278,1.67-3.071,4.544-7.126,6.548C937.545,419.058,931.404,420.262,930.293,419.136z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M1429.865,508.347c-1.863-1.883-3.349-3.585-9.688-9.321c-3.222-2.918-6.541-6.211-7.316-7.468
+			c-0.526-0.856-2.812-5.139-4.379-7.952c-0.917-1.646-1.122-2.433-1.564-3.248c-0.519-0.946-0.866-1.475-1.131-2.013
+			c-0.3-0.608-0.511-1.221-1.055-2.355c-1.439-3.005-2.279-4.498-0.928-5.104c2.209-0.994,4.748,0.334,7.195,4.291
+			c0.815,1.313,1.708,2.676,2.305,3.503c2.396,3.317,2.689,2.044,2.689,2.044s0.671-2.361-0.048-8.562
+			c-0.718-6.202-2.62-15.293-3.593-21.653c-0.861-5.623,0.403-6.774,1.806-6.95c1.247-0.155,1.334-0.291,2.7,4.667
+			c0.557,2.02,1.184,3.737,2.061,6.523c0.36,1.145,0.932,2.231,1.375,3.833c0.832,3.013,1.908,6.755,1.908,6.755
+			s0.452,0.713,0.295-2.331c-0.156-3.045,0.753-3.875,3.249-4.175c2.493-0.301,3.305,2.477,3.305,2.477
+			c2.538-2.314,4.497-0.991,5.28-0.268c0.78,0.724,2.026,3.304,2.026,3.304s0.839-0.616,2.061-0.801
+			c1.677-0.255,2.378,0.07,3.476,1.498c0.996,1.3,3.204,8.86,3.642,11.028c0.434,2.167,0.521,6.748-0.151,12.052
+			c-0.769,6.052,2.349,9.639,2.696,11.703c0.278,1.67-3.071,4.544-7.126,6.548C1437.117,508.269,1430.977,509.472,1429.865,508.347z
+			"/>
+	</g>
+	<text transform="matrix(0.9957 0 0 1 712.9609 1183.1978)" fill="#3991C3" font-family="'Helvetica'" font-size="24">New Project Entry</text>
+	<g>
+		<rect x="674.139" y="1235.28" fill="#FFFFFF" width="268.452" height="29.483"/>
+		<text transform="matrix(1 0 0 1 684.126 1253.022)" opacity="0.5" fill="#1A76AB" font-family="'Helvetica'" font-size="10.5152">Type name here...</text>
+		
+			<text transform="matrix(0.9935 0 0 1 675.5303 1227.9165)" opacity="0.7" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">Project Name </text>
+	</g>
+	<g>
+		<rect x="676.126" y="1308.48" fill="#FFFFFF" width="268.452" height="29.483"/>
+		
+			<text transform="matrix(1 0 0 1 686.1133 1326.2222)" opacity="0.5" fill="#1A76AB" font-family="'Helvetica'" font-size="10.5152">Type city here...</text>
+		
+			<text transform="matrix(0.9935 0 0 1 677.5176 1301.1167)" opacity="0.7" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">Project Location</text>
+		<rect x="676.126" y="1343.496" fill="#FFFFFF" width="268.452" height="29.483"/>
+		
+			<text transform="matrix(1 0 0 1 686.1133 1361.2378)" opacity="0.5" fill="#1A76AB" font-family="'Helvetica'" font-size="10.5152">Type state here...</text>
+	</g>
+	<g>
+		<rect x="676.126" y="1412.147" fill="#FFFFFF" width="268.452" height="29.483"/>
+		
+			<text transform="matrix(1 0 0 1 686.1133 1429.8892)" opacity="0.5" fill="#1A76AB" font-family="'Helvetica'" font-size="10.5152">Type area here...</text>
+		
+			<text transform="matrix(0.9935 0 0 1 677.5176 1404.7837)" opacity="0.7" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">Square Footage</text>
+	</g>
+	<g>
+		<rect x="676.126" y="1480.753" fill="#FFFFFF" width="268.452" height="29.483"/>
+		
+			<text transform="matrix(1 0 0 1 686.1133 1498.4956)" opacity="0.5" fill="#1A76AB" font-family="'Helvetica'" font-size="10.5152">Type architect’s name here...</text>
+		
+			<text transform="matrix(0.9935 0 0 1 677.5176 1473.3901)" opacity="0.7" fill="#1A76AB" font-family="'Helvetica'" font-size="17.5">Architect’s Information</text>
+		<rect x="676.126" y="1516.974" fill="#FFFFFF" width="268.452" height="29.483"/>
+		
+			<text transform="matrix(1 0 0 1 686.1133 1534.7163)" opacity="0.5" fill="#1A76AB" font-family="'Helvetica'" font-size="10.5152">Type architect’s company here...</text>
+		<rect x="676.126" y="1554.099" fill="#FFFFFF" width="268.452" height="29.483"/>
+		
+			<text transform="matrix(1 0 0 1 686.1133 1571.8413)" opacity="0.5" fill="#1A76AB" font-family="'Helvetica'" font-size="10.5152">Type architect’s number here...</text>
+		<rect x="676.126" y="1590.193" fill="#FFFFFF" width="268.452" height="29.483"/>
+		
+			<text transform="matrix(1 0 0 1 686.1133 1607.9351)" opacity="0.5" fill="#1A76AB" font-family="'Helvetica'" font-size="10.5152">Type architect’s email here...</text>
+	</g>
+	<circle fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" cx="1181.124" cy="299.884" r="13.513"/>
+	<circle fill="#224099" cx="927.423" cy="1173.038" r="10.161"/>
+	<g>
+		<path fill="none" stroke="#224099" stroke-width="3" stroke-miterlimit="10" d="M1167.61,299.884h-75.728c-11,0-20,9-20,20
+			v833.154c0,11-9,20-20,20H927.424"/>
+	</g>
+</g>
+</svg>
