@@ -59,7 +59,7 @@ $('.scroll').on('click', function(e){
 
 //PORTRAIT EFFECT
 var options = {
-  imgSrc : "images/portrait.jpg",
+  imgSrc : "https://github.com/paulliddy/pl/blob/master/images/portrait.jpg",
   containerName : "placeholder",
   rows:5,
   columns:5,
