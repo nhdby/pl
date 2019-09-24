@@ -147,6 +147,12 @@ nav a.active {
 }
 
 /*ABOUT STYLE*/
+.portrait-img {
+  margin: 20px auto;
+  position: relative;
+  height: 275px;
+  width: 275px;
+}
 
 /*PROCESS STYLE*/
 .section-container {
