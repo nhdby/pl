@@ -148,14 +148,12 @@ nav a.active {
 
 /*ABOUT STYLE*/
 .about-content {
-  display: flex;
-  text-align: justify;
   margin: 0 auto;
-  justify-content: center;
-  max-width: 90%;
-  font-size: 15px;
-  padding-bottom: 20px;
-  background: grey;
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(137,139,150);
 }
 
 .portrait-img {
