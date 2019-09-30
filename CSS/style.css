@@ -147,6 +147,12 @@ nav a.active {
 }
 
 /*ABOUT STYLE*/
+
+#about-block {
+ background-color: grey;
+ padding-bottom: 50px;
+}
+
 .about-content {
   margin: 0 auto;
   padding-bottom: 50px;
