@@ -149,7 +149,7 @@ nav a.active {
 /*ABOUT STYLE*/
 
 #about-block {
- background-color: rgb(204,204,204);
+ background-color: rgb(255,255,255);
  padding-bottom: 50px;
 }
 
@@ -170,6 +170,10 @@ nav a.active {
 }
 
 /*PROCESS STYLE*/
+#process-block {
+  background-color: rgb(222,222,222);
+}
+
 .section-container {
   margin: 0 auto;
   padding-bottom: 50px;
