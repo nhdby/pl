@@ -203,7 +203,7 @@ nav a.active {
   justify-content: center;
   max-width: 90%;
   font-size: 15px;
-  padding-bottom: 20px;
+  /* padding-bottom: 20px; */
 }
 
 .step-call {
