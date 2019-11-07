@@ -154,7 +154,7 @@ nav a.active {
 }
 
 .about-content {
-  margin: 0 auto;
+  margin: 0;
   padding-bottom: 50px;
   display: flex;
   flex-direction: column;
