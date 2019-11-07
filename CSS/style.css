@@ -156,7 +156,7 @@ nav a.active {
 .about-content {
   margin: 0 auto;
   padding-bottom: 50px;
-  display: block;
+  display: flex;
   flex-direction: column;
   align-items: center;
 }
